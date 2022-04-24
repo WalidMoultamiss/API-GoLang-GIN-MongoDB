@@ -1,0 +1,7 @@
+{
+  "name": "backend Go",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon --exec go run main.go --signal SIGTERM"
+  }
+}
